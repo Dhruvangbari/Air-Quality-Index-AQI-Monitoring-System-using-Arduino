@@ -1,4 +1,5 @@
 # Air Quality Index (AQI) Monitoring System using Arduino 🌫️📊  
+
 Measure air quality. Stay informed.
 
 This project implements a **real-time Air Quality Index (AQI) monitoring system** using **Arduino UNO**, an **MQ-135 air quality sensor**, visual indicators, an audible alarm, and a **16x2 LCD display**.
